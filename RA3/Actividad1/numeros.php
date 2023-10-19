@@ -37,6 +37,11 @@ if ($numero > $numero2 and $numero > $numero3) {
 
 
 } 
+echo "<br><br><br><br><br><br>";
+
+
+echo "<a href=\"https://github.com/AdrianGM02/RA3_SERVIDOR_ADRIAN_GONZALEZ_MARTINEZ/blob/main/RA3/Actividad1/numeros.php\">Ejercicio En el Github</a>"
+
 
 
 

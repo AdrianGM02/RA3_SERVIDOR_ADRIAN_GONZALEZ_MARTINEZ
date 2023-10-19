@@ -12,10 +12,12 @@ while ($numero != 10) {
     $numero++;
     print($numero . " ". " <br/>" ) ;
 
-}
+};
+
+echo "<br><br><br><br><br><br>";
 
 
-
+echo "<a href=\"https://github.com/AdrianGM02/RA3_SERVIDOR_ADRIAN_GONZALEZ_MARTINEZ/blob/main/RA3/Actividad2/1a10.php\">Ejercicio En el Github</a>";
 
 
 

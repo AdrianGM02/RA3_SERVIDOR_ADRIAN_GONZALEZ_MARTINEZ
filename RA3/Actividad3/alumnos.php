@@ -24,3 +24,7 @@ $alumnos = array(
 );
 
 echo "El nombre es ". $alumnos[rand(0, count($alumnos)-1)];
+echo "<br><br><br><br><br><br>";
+
+
+echo "<a href=\"https://github.com/AdrianGM02/RA3_SERVIDOR_ADRIAN_GONZALEZ_MARTINEZ/blob/main/RA3/Actividad3/alumnos.php\">Ejercicio En el Github</a>";

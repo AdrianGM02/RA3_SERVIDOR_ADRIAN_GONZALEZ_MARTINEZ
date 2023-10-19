@@ -44,3 +44,6 @@ $mostrarPlatoyPrecios = function($restaurante){
 };
 
 $mostrarPlatoyPrecios($restaurante);
+echo "<br><br><br><br><br><br>";
+
+echo "<a href=\"https://github.com/AdrianGM02/RA3_SERVIDOR_ADRIAN_GONZALEZ_MARTINEZ/blob/main/RA3/Actividad3/restaurante.php\">Ejercicio En el Github</a>";

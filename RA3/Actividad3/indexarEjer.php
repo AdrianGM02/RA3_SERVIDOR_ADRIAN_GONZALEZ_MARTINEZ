@@ -8,7 +8,7 @@
 
 $directorios = array(
     'RA1' => array(
-        'Ejercicio 1' => ''
+        'Ejercicio 1' => 'https://github.com/AdrianGM02/RA1-SERVIDOR-ADRIAN_GONZALEZ/blob/main/RA1ActividadServidor.pdf'
     ),
     'RA2'=> array(
         'Ejercicio 1' => 'R2/Actividad1/index.html',
@@ -25,3 +25,5 @@ $directorios = array(
 );
 
 
+
+?>

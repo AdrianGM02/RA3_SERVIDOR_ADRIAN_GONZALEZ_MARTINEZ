@@ -24,8 +24,10 @@ while ($cont < 3) {
     $par++;
 }
 
-print("La suma es " . $sumPar)
+print("La suma es " . $sumPar);
+echo "<br><br><br><br><br><br>";
 
+echo "<a href=\"https://github.com/AdrianGM02/RA3_SERVIDOR_ADRIAN_GONZALEZ_MARTINEZ/blob/main/RA3/Actividad2/sumarpares.php\">Ejercicio En el Github</a>"
 
 
 
